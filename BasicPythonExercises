@@ -459,7 +459,7 @@ for i in range(len(concatenatedList)):
 
 #Tuples in Python
 exampleIntTuple = (10,25,64)
-exampleMixTuple = ("Anil", 1.5, -3, 45)
+exampleMixTuple = ("Ardil", 1.5, -3, 45)
 
 print(exampleIntTuple)
 print(exampleMixTuple)
@@ -471,7 +471,7 @@ print(len(exampleMixTuple))
     #we can add 2 tuples
 
 #Unpacking
-studentTuple = ('Anil', 'Guvenc', [60, 55, 100])
+studentTuple = ('Ardil', 'Karasungur', [60, 55, 100])
 studentName, studentSurname, studentGrade = studentTuple
 print(studentName, studentSurname, studentGrade)
 
